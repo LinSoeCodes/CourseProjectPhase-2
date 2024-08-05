@@ -59,7 +59,7 @@ def printTotals(empTotals):
     print(f'Total hours of the Employees: {empTotals["totHours"]}')
     print(f'Total Gross Pay of Employees: {empTotals["totGross"]}')
     print(f'Total tax of employees: {empTotals["totTax"]}')
-    print(f'Total net pay of employees: {empTotals["toNet"]}')
+    print(f'Total net pay of employees: {empTotals["totNet"]}')
     
 if __name__ == "__main__":
     empDetailList = [] 
